@@ -33,6 +33,25 @@ dependencies {
     debugCompile 'com.squareup.leakcanary:leakcanary-android:1.3.1'
     releaseCompile 'com.squareup.leakcanary:leakcanary-android-no-op:1.3.1'
     testCompile 'com.squareup.leakcanary:leakcanary-android-no-op:1.3.1'
+    compile 'com.jakewharton.timber:timber:4.1.1'
+//    compile 'dagger'
+//    compile 'retrofit'
+//    compile 'butterknife'
+//    compile 'gride'
+//    compile 'rxjava'
+//    compile 'ceale canary'
+//    compile 'tulet fps'
+//    compile 'realm'
+//    compile 'orma'
+//    compile 'stetho'
+//    compile 'eventbus'
+//    compile 'crashlytics'
+//    compile 'android method counts'
+//    compile 'assertionlad'
+    // android studio 1.7
+    // server di
+    // clean architecture
+    // android studio font
 }
 buildscript {
     ext.kotlin_version = '1.0.0'
